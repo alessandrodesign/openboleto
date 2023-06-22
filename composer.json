@@ -1,5 +1,5 @@
 {
-    "name": "openboleto/openboleto",
+    "name": "alessandrodesign/openboleto",
     "type": "library",
     "description": "Biblioteca para geração de boletos bancários.",
     "keywords": ["boleto", "boleto bancario"],
@@ -17,6 +17,10 @@
         {
             "name": "Rogerio Muniz",
             "email": "rogerio@quilhasoft.com.br"
+        },
+        {
+            "name": "Alessandro P. Souza",
+            "email": "alessandro-design@hotmail.com"
         }
     ],
     "require": {
